@@ -1,0 +1,1776 @@
+[
+  {
+    "name": "United Arab Emirates",
+    "slug": "uae",
+    "flag": "🇦🇪",
+    "image": "",
+    "tagline": "Tourist e-visa documentation and entry requirements for Dubai and Abu Dhabi.",
+    "processingTime": "Usually 3–5 working days",
+    "stayDuration": "30 days or 60 days",
+    "validity": "60 days from date of issue",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Color copy of passport personal particulars and address pages (valid at least 6 months)",
+          "Recent passport-size colored photograph on white background",
+          "Confirmed return or onward flight booking",
+          "Hotel reservation voucher or host residence proof in UAE"
+        ]
+      },
+      {
+        "title": "Minor / children",
+        "items": [
+          "Birth certificate with English translation",
+          "Passport copies of both parents"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist Visa (30 Days Single Entry)",
+        "currency": "AED",
+        "embassyFee": 250,
+        "serviceFee": 0,
+        "processingTime": "3–5 working days",
+        "note": "Official ICP/GDRFA consular charge"
+      },
+      {
+        "visaType": "Tourist Visa (60 Days Single Entry)",
+        "currency": "AED",
+        "embassyFee": 350,
+        "serviceFee": 0,
+        "processingTime": "3–5 working days",
+        "note": "Official ICP/GDRFA consular charge"
+      }
+    ],
+    "chargesNote": "Fees subject to official ICP/GDRFA consular system and VAT updates.",
+    "notes": "Indian passport holders holding a valid US B1/B2 visa, US Green Card, UK residence permit, or EU residence permit can also obtain Visa on Arrival at UAE ports.",
+    "status": "draft",
+    "sortOrder": 1
+  },
+  {
+    "name": "Thailand",
+    "slug": "thailand",
+    "flag": "🇹🇭",
+    "image": "",
+    "tagline": "Official tourist visa application requirements for travel to Thailand.",
+    "processingTime": "Usually 5–7 working days",
+    "stayDuration": "Up to 60 days",
+    "validity": "90 days from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport with at least 6 months validity from entry date and 2 blank pages",
+          "Recent photograph (3.5 x 4.5 cm) taken within the last 6 months",
+          "Confirmed return flight ticket paying proof",
+          "Proof of accommodation in Thailand (hotel booking or invitation letter)",
+          "Bank statement showing financial sufficiency (minimum 20,000 THB per person or equivalent)"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Employment verification letter / NOC from employer",
+          "Salary bank statement or recent pay slips"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist Visa (Single Entry - TR)",
+        "currency": "USD",
+        "embassyFee": 40,
+        "serviceFee": 0,
+        "processingTime": "5–7 working days",
+        "note": "Official Royal Thai Embassy/Consulate visa fee"
+      }
+    ],
+    "chargesNote": "Embassy fee verified via official Thai e-Visa portal. Periodic visa-exemption schemes may apply.",
+    "notes": "Verify temporary visa-waiver notifications issued by the Royal Thai Government before departure.",
+    "status": "draft",
+    "sortOrder": 2
+  },
+  {
+    "name": "Singapore",
+    "slug": "singapore",
+    "flag": "🇸🇬",
+    "image": "",
+    "tagline": "Official entry visa documentation for Indian passport holders traveling to Singapore.",
+    "processingTime": "Usually 3–5 working days",
+    "stayDuration": "Up to 30 days per visit",
+    "validity": "Up to 2 years (at consular discretion)",
+    "entryType": "Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport valid for at least 6 months beyond the date of arrival in Singapore",
+          "Completed Form 14A signed by the applicant",
+          "Two passport-sized color photographs (35mm x 45mm, matte finish, white background, taken within 3 months)",
+          "Confirmed round-trip flight booking and hotel itinerary",
+          "Bank statements for the last 3 to 6 months"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Leave sanction letter or company letter stating designation and tenure",
+          "Payslips for the last 3 months"
+        ]
+      },
+      {
+        "title": "If you are self-employed / business",
+        "items": [
+          "Company registration certificate (GST / Incorporation / Partnership deed)",
+          "Company bank account statements for the last 6 months"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Entry Visa (Form 14A)",
+        "currency": "INR",
+        "embassyFee": 1900,
+        "serviceFee": 0,
+        "processingTime": "3–5 working days",
+        "note": "Equivalent to 30 SGD official ICA processing fee"
+      }
+    ],
+    "chargesNote": "ICA application fee is 30 SGD, non-refundable irrespective of application outcome.",
+    "notes": "Electronic Singapore Arrival Card (SGAC) with health declaration must be submitted within 3 days prior to arrival.",
+    "status": "draft",
+    "sortOrder": 3
+  },
+  {
+    "name": "Malaysia",
+    "slug": "malaysia",
+    "flag": "🇲🇾",
+    "image": "",
+    "tagline": "Entry requirements and tourist documentation for visiting Malaysia.",
+    "processingTime": "Usually 2–3 working days",
+    "stayDuration": "Up to 30 days",
+    "validity": "3 months from date of issue",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months from arrival date",
+          "Studio-quality passport photograph with white background",
+          "Confirmed return flight itinerary",
+          "Proof of hotel accommodation or address in Malaysia",
+          "Malaysia Digital Arrival Card (MDAC) completed online within 3 days prior to arrival"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist eVISA (30 Days)",
+        "currency": "INR",
+        "embassyFee": 1900,
+        "serviceFee": 0,
+        "processingTime": "2–3 working days",
+        "note": "Official eVISA fee (105 MYR)"
+      }
+    ],
+    "chargesNote": "Indian nationals enjoy visa-free entry for up to 30 days under current bilateral arrangements. Confirm ongoing status with Immigration Department of Malaysia.",
+    "notes": "All foreign travelers must complete the Malaysia Digital Arrival Card (MDAC) online before arrival.",
+    "status": "draft",
+    "sortOrder": 4
+  },
+  {
+    "name": "Indonesia",
+    "slug": "indonesia",
+    "flag": "🇮🇩",
+    "image": "",
+    "tagline": "Official electronic Visa on Arrival (e-VOA) and entry guidelines for Bali and Indonesia.",
+    "processingTime": "Usually 1–2 working days",
+    "stayDuration": "30 days (extendable once for 30 days)",
+    "validity": "90 days from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months from entry date",
+          "Passport-style color photo",
+          "Confirmed return or onward ticket departing Indonesia within 30 days"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Electronic Visa on Arrival (e-VOA / B213)",
+        "currency": "USD",
+        "embassyFee": 35,
+        "serviceFee": 0,
+        "processingTime": "1–2 working days",
+        "note": "Official fee 500,000 IDR (approx. 35 USD)"
+      }
+    ],
+    "chargesNote": "Fee charged by Directorate General of Immigration Indonesia is 500,000 IDR.",
+    "notes": "Bali also levies an official provincial tourist tax payable via Love Bali portal.",
+    "status": "draft",
+    "sortOrder": 5
+  },
+  {
+    "name": "Vietnam",
+    "slug": "vietnam",
+    "flag": "🇻🇳",
+    "image": "",
+    "tagline": "Official electronic visa guidelines for traveling to Vietnam.",
+    "processingTime": "Usually 3–5 working days",
+    "stayDuration": "Up to 30 or 90 days",
+    "validity": "Up to 90 days as approved",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for minimum 6 months beyond intended stay with at least 2 blank pages",
+          "Clear digital scan of passport biographical page (JPG format)",
+          "Digital portrait photo (4x6 cm, straight face view, white background, without glasses)",
+          "Proposed entry and exit checkpoints in Vietnam"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Electronic Visa (Single Entry, up to 90 Days)",
+        "currency": "USD",
+        "embassyFee": 25,
+        "serviceFee": 0,
+        "processingTime": "3–5 working days",
+        "note": "Official Vietnam Immigration fee"
+      },
+      {
+        "visaType": "Electronic Visa (Multiple Entry, up to 90 Days)",
+        "currency": "USD",
+        "embassyFee": 50,
+        "serviceFee": 0,
+        "processingTime": "3–5 working days",
+        "note": "Official Vietnam Immigration fee"
+      }
+    ],
+    "chargesNote": "Official consular e-visa portal fee paid directly to the Vietnam Immigration Department.",
+    "notes": "Ensure port of entry selected on application matches your flight arrival airport.",
+    "status": "draft",
+    "sortOrder": 6
+  },
+  {
+    "name": "Cambodia",
+    "slug": "cambodia",
+    "flag": "🇰🇭",
+    "image": "",
+    "tagline": "Official tourist e-Visa documentation for visiting Cambodia.",
+    "processingTime": "Usually 3 working days",
+    "stayDuration": "Up to 30 days",
+    "validity": "3 months from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months at date of entry",
+          "Digital passport photograph in JPEG/PNG format",
+          "Confirmed travel itinerary or hotel booking details"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist e-Visa (Type T)",
+        "currency": "USD",
+        "embassyFee": 36,
+        "serviceFee": 0,
+        "processingTime": "3 working days",
+        "note": "30 USD visa fee + 6 USD official processing fee"
+      }
+    ],
+    "chargesNote": "Official fee fixed by Ministry of Foreign Affairs and International Cooperation, Cambodia.",
+    "notes": "e-Visa is accepted at major international airports (Phnom Penh, Siem Reap, Sihanoukville) and select border crossings.",
+    "status": "draft",
+    "sortOrder": 7
+  },
+  {
+    "name": "Philippines",
+    "slug": "philippines",
+    "flag": "🇵🇭",
+    "image": "",
+    "tagline": "Temporary visitor visa documentation for travel to the Philippines.",
+    "processingTime": "Usually 7–10 working days",
+    "stayDuration": "Up to 30 days or 59 days",
+    "validity": "3 months from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport valid at least 6 months beyond intended stay in the Philippines",
+          "Duly completed visa application form",
+          "Passport-size photo with white background",
+          "Confirmed return or onward ticket",
+          "Proof of financial capacity (recent bank statements)"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Temporary Visitor Visa (9A Single Entry)",
+        "currency": "USD",
+        "embassyFee": 40,
+        "serviceFee": 0,
+        "processingTime": "7–10 working days",
+        "note": "Official Philippine Embassy consular fee"
+      }
+    ],
+    "chargesNote": "Indian nationals with a valid US, UK, Schengen, Japanese, Canadian or Australian visa may enter visa-free for up to 14 days.",
+    "notes": "All travelers must register on the official eTravel portal prior to arrival.",
+    "status": "draft",
+    "sortOrder": 8
+  },
+  {
+    "name": "Sri Lanka",
+    "slug": "sri-lanka",
+    "flag": "🇱🇰",
+    "image": "",
+    "tagline": "Electronic Travel Authorization (ETA) documentation for visiting Sri Lanka.",
+    "processingTime": "Usually 2–3 working days",
+    "stayDuration": "Up to 30 days",
+    "validity": "180 days from date of issue",
+    "entryType": "Double entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for not less than 6 months from arrival date",
+          "Confirmed return air ticket",
+          "Proof of sufficient funds during stay in Sri Lanka",
+          "Hotel booking confirmation"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist Electronic Travel Authorization (ETA)",
+        "currency": "USD",
+        "embassyFee": 50,
+        "serviceFee": 0,
+        "processingTime": "2–3 working days",
+        "note": "Official Department of Immigration and Emigration ETA fee"
+      }
+    ],
+    "chargesNote": "Fee waivers or revised visa categories may be published periodically by the Department of Immigration & Emigration.",
+    "notes": "Apply online prior to travel; check current visa portal operational status before booking.",
+    "status": "draft",
+    "sortOrder": 9
+  },
+  {
+    "name": "Nepal",
+    "slug": "nepal",
+    "flag": "🇳🇵",
+    "image": "",
+    "tagline": "Entry regulations and valid identification documents for Indian citizens visiting Nepal.",
+    "processingTime": "Immediate on arrival",
+    "stayDuration": "Freedom of movement for Indian citizens",
+    "validity": "Not applicable",
+    "entryType": "Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Valid Indian Passport OR original Election Commission Voter Identity Card",
+          "For minors under 18 traveling with parents: original birth certificate and school photo ID"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Entry for Indian Citizens (Treaty of Peace and Friendship)",
+        "currency": "INR",
+        "embassyFee": 0,
+        "serviceFee": 0,
+        "processingTime": "Immediate",
+        "note": "No visa fee under bilateral treaty"
+      }
+    ],
+    "chargesNote": "Indian citizens do not require a visa to enter Nepal under the 1950 Indo-Nepal Treaty.",
+    "notes": "Aadhaar card and PAN card are NOT accepted as valid travel documents by immigration authorities for air travel to Nepal.",
+    "status": "draft",
+    "sortOrder": 10
+  },
+  {
+    "name": "Bhutan",
+    "slug": "bhutan",
+    "flag": "🇧🇹",
+    "image": "",
+    "tagline": "Entry permit and Sustainable Development Fee regulations for traveling to Bhutan.",
+    "processingTime": "Usually 3–5 working days",
+    "stayDuration": "As approved per itinerary",
+    "validity": "Single trip as authorized",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Valid Indian passport (minimum 6 months validity) or Voter Identity Card",
+          "Passport-size photograph",
+          "Proof of travel insurance covering emergency evacuation",
+          "Confirmed booking in certified hotel (minimum 3-star or certified homestay)"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Sustainable Development Fee (SDF per night per adult)",
+        "currency": "INR",
+        "embassyFee": 1200,
+        "serviceFee": 0,
+        "processingTime": "3–5 working days",
+        "note": "Official Royal Government of Bhutan SDF for Indian nationals"
+      }
+    ],
+    "chargesNote": "Entry permit fee is 0; Indian citizens pay Sustainable Development Fee (SDF) of 1,200 INR per person per night.",
+    "notes": "Children between 6 and 12 years pay 600 INR SDF per night; children under 6 are exempt.",
+    "status": "draft",
+    "sortOrder": 11
+  },
+  {
+    "name": "Maldives",
+    "slug": "maldives",
+    "flag": "🇲🇻",
+    "image": "",
+    "tagline": "Free tourist visa on arrival guidelines for Indian tourists visiting the Maldives.",
+    "processingTime": "On arrival at Malé airport",
+    "stayDuration": "Up to 30 days",
+    "validity": "30 days on entry",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Valid passport with Machine Readable Zone (MRZ) valid at least 1 month from departure",
+          "Pre-paid hotel reservation / confirmed resort accommodation",
+          "Confirmed return flight ticket to home country or onward travel",
+          "Sufficient funds for duration of stay (minimum 100 USD + 50 USD per day)",
+          "Online Traveler Declaration (IMUGA) completed within 96 hours before arrival"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist Visa on Arrival (30 Days)",
+        "currency": "USD",
+        "embassyFee": 0,
+        "serviceFee": 0,
+        "processingTime": "Immediate on arrival",
+        "note": "Free of charge on arrival"
+      }
+    ],
+    "chargesNote": "Maldives tourist visa is issued free of charge on arrival for 30 days.",
+    "notes": "The IMUGA Traveler Declaration must be submitted online within 96 hours prior to departure for both inbound and outbound flights.",
+    "status": "draft",
+    "sortOrder": 12
+  },
+  {
+    "name": "Mauritius",
+    "slug": "mauritius",
+    "flag": "🇲🇺",
+    "image": "",
+    "tagline": "Visa on arrival and entry clearance requirements for Indian passport holders in Mauritius.",
+    "processingTime": "Immediate upon arrival",
+    "stayDuration": "Up to 60 days",
+    "validity": "Granted on arrival",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid beyond intended period of stay",
+          "Confirmed return flight ticket",
+          "Confirmed hotel accommodation booking",
+          "Proof of sufficient funds (minimum 100 USD per day)",
+          "Mauritius All-in-One digital travel form completed before arrival"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist Visa on Arrival (up to 60 days)",
+        "currency": "INR",
+        "embassyFee": 0,
+        "serviceFee": 0,
+        "processingTime": "Immediate on arrival",
+        "note": "Free on arrival for Indian citizens"
+      }
+    ],
+    "chargesNote": "Indian passport holders are granted a free tourist visa on arrival for up to 60 days.",
+    "notes": "Complete the Mauritius All-in-One digital travel form before boarding.",
+    "status": "draft",
+    "sortOrder": 13
+  },
+  {
+    "name": "Seychelles",
+    "slug": "seychelles",
+    "flag": "🇸🇨",
+    "image": "",
+    "tagline": "Visitor permit and Travel Authorization requirements for Seychelles.",
+    "processingTime": "Usually 12–24 hours online",
+    "stayDuration": "Up to 30 days",
+    "validity": "Valid for approved dates",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for duration of stay",
+          "Confirmed return or onward ticket",
+          "Proof of licensed accommodation for entire stay",
+          "Sufficient financial funds (minimum 150 USD per day)",
+          "Approved electronic Travel Authorization (eTA) prior to travel"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Electronic Travel Authorization (eTA)",
+        "currency": "EUR",
+        "embassyFee": 10,
+        "serviceFee": 0,
+        "processingTime": "12–24 hours",
+        "note": "Official Seychelles government processing fee per person"
+      }
+    ],
+    "chargesNote": "Seychelles is visa-free; all visitors must obtain an approved electronic Travel Authorization (eTA) before boarding.",
+    "notes": "Apply through the official Seychelles electronic Travel Authorization platform within 10 days before flight.",
+    "status": "draft",
+    "sortOrder": 14
+  },
+  {
+    "name": "Turkey",
+    "slug": "turkey",
+    "flag": "🇹🇷",
+    "image": "",
+    "tagline": "Consular visa and e-Visa entry requirements for travel to Türkiye.",
+    "processingTime": "Usually 7–15 working days for sticker; 24h for e-Visa",
+    "stayDuration": "Up to 30 days",
+    "validity": "180 days from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months beyond the date of arrival in Türkiye",
+          "Two biometric photographs (5 x 5 cm, white background)",
+          "Confirmed return flight tickets and hotel bookings",
+          "Bank statement for the last 3 months with original bank stamp",
+          "Travel medical insurance covering minimum 30,000 EUR"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Leave sanction letter on company letterhead",
+          "Salary slips for the last 3 months"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Electronic Visa (e-Visa - conditional)",
+        "currency": "USD",
+        "embassyFee": 43,
+        "serviceFee": 0,
+        "processingTime": "Instant to 24 hours",
+        "note": "Only valid for holders of valid US, UK, Schengen, or Ireland visa/residence permit"
+      }
+    ],
+    "chargesNote": "Indian passport holders without a valid Schengen, US, UK, or Ireland visa must apply for a regular sticker visa through authorized centres (Gateway Globe).",
+    "notes": "The Turkish e-Visa is strictly conditional for Indian passport holders holding a valid visa/residence permit from USA, UK, Schengen or Ireland.",
+    "status": "draft",
+    "sortOrder": 15
+  },
+  {
+    "name": "Egypt",
+    "slug": "egypt",
+    "flag": "🇪🇬",
+    "image": "",
+    "tagline": "Official tourist e-Visa documentation for visiting Egypt.",
+    "processingTime": "Usually 5–7 working days",
+    "stayDuration": "Up to 30 days",
+    "validity": "3 months (Single) or 6 months (Multiple)",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months from arrival date",
+          "Digital scan of passport bio page",
+          "Confirmed flight itinerary and hotel bookings in Egypt",
+          "Tour itinerary or invitation letter if applicable"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist e-Visa (Single Entry, 30 Days)",
+        "currency": "USD",
+        "embassyFee": 25,
+        "serviceFee": 0,
+        "processingTime": "5–7 working days",
+        "note": "Official Egyptian Ministry of Interior fee"
+      },
+      {
+        "visaType": "Tourist e-Visa (Multiple Entry, 90 Days)",
+        "currency": "USD",
+        "embassyFee": 60,
+        "serviceFee": 0,
+        "processingTime": "5–7 working days",
+        "note": "Official Egyptian Ministry of Interior fee"
+      }
+    ],
+    "chargesNote": "Official fees payable online in USD through the Egypt e-Visa portal.",
+    "notes": "Apply at least 7 days before departure. Print the approved e-Visa to present at passport control.",
+    "status": "draft",
+    "sortOrder": 16
+  },
+  {
+    "name": "Azerbaijan",
+    "slug": "azerbaijan",
+    "flag": "🇦🇿",
+    "image": "",
+    "tagline": "Official ASAN Visa electronic application requirements for Azerbaijan.",
+    "processingTime": "3 working days (standard) or 3 hours (urgent)",
+    "stayDuration": "Up to 30 days",
+    "validity": "90 days from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid at least 3 months beyond the validity date of the e-Visa",
+          "Clear digital copy of passport bio page in JPEG format",
+          "Accommodation address in Azerbaijan"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Standard ASAN e-Visa (3 Working Days)",
+        "currency": "USD",
+        "embassyFee": 26,
+        "serviceFee": 0,
+        "processingTime": "3 working days",
+        "note": "20 USD state fee + 6 USD official service fee"
+      },
+      {
+        "visaType": "Urgent ASAN e-Visa (3 Hours)",
+        "currency": "USD",
+        "embassyFee": 61,
+        "serviceFee": 0,
+        "processingTime": "3 hours",
+        "note": "20 USD state fee + 41 USD official service fee"
+      }
+    ],
+    "chargesNote": "State fees fixed by the State Agency for Public Service and Social Innovations under the President of the Republic of Azerbaijan.",
+    "notes": "Foreigners staying more than 15 days in Azerbaijan must register with the State Migration Service within 15 days of arrival.",
+    "status": "draft",
+    "sortOrder": 17
+  },
+  {
+    "name": "Georgia",
+    "slug": "georgia",
+    "flag": "🇬🇪",
+    "image": "",
+    "tagline": "Official electronic visa documentation and entry rules for Georgia.",
+    "processingTime": "Usually 5 working days",
+    "stayDuration": "Up to 30 days",
+    "validity": "120 days from date of issue",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 3 months beyond the validity period of the visa",
+          "Digital passport photograph adhering to ICAO standards",
+          "Travel insurance covering entire duration of stay",
+          "Document confirming accommodation in Georgia",
+          "Proof of financial funds (bank statements for last 3 months)"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Short-Stay e-Visa (Ordinary)",
+        "currency": "USD",
+        "embassyFee": 20,
+        "serviceFee": 0,
+        "processingTime": "5 working days",
+        "note": "Official state duty via e-Visa portal (+2% bank fee)"
+      }
+    ],
+    "chargesNote": "Indian passport holders with valid visa or residence permit from USA, EU/Schengen, UK, Canada, Australia, Japan, or GCC are exempt from visa requirements for up to 90 days in any 180-day period.",
+    "notes": "Carry hard copies of accommodation, return tickets, and travel insurance upon arrival in Georgia.",
+    "status": "draft",
+    "sortOrder": 18
+  },
+  {
+    "name": "Armenia",
+    "slug": "armenia",
+    "flag": "🇦🇲",
+    "image": "",
+    "tagline": "Official e-Visa application requirements for travel to Armenia.",
+    "processingTime": "Usually 3 working days",
+    "stayDuration": "Up to 21 days or 120 days",
+    "validity": "90 days (for 21-day stay) or 180 days (for 120-day stay)",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least the entire duration of the requested visa",
+          "Digital passport photograph",
+          "Confirmed return flight ticket",
+          "Hotel booking confirmation or invitation letter"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Visitor e-Visa (Short Stay - Up to 21 Days)",
+        "currency": "USD",
+        "embassyFee": 6,
+        "serviceFee": 0,
+        "processingTime": "3 working days",
+        "note": "Official Ministry of Foreign Affairs fee (approx. 3,000 AMD)"
+      },
+      {
+        "visaType": "Visitor e-Visa (Long Stay - Up to 120 Days)",
+        "currency": "USD",
+        "embassyFee": 31,
+        "serviceFee": 0,
+        "processingTime": "3 working days",
+        "note": "Official Ministry of Foreign Affairs fee (approx. 15,000 AMD)"
+      }
+    ],
+    "chargesNote": "Fees payable in USD on the official MFA Armenia e-Visa portal.",
+    "notes": "Verify eligibility conditions; select Indian passport holders with residence permits in GCC/EU/USA may be eligible for e-Visa without invitation.",
+    "status": "draft",
+    "sortOrder": 19
+  },
+  {
+    "name": "Kazakhstan",
+    "slug": "kazakhstan",
+    "flag": "🇰🇿",
+    "image": "",
+    "tagline": "Visa-free entry guidelines for Indian citizens traveling to Kazakhstan.",
+    "processingTime": "Immediate on arrival",
+    "stayDuration": "Up to 14 days per visit",
+    "validity": "Up to 42 days total in 180-day period",
+    "entryType": "Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months from date of entry",
+          "Confirmed return or onward flight ticket within 14 days",
+          "Proof of hotel accommodation or local host details",
+          "Travel medical insurance"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Visa-Free Entry (Up to 14 Days)",
+        "currency": "USD",
+        "embassyFee": 0,
+        "serviceFee": 0,
+        "processingTime": "Immediate on arrival",
+        "note": "No visa fee under bilateral visa-free regime"
+      }
+    ],
+    "chargesNote": "Citizens of the Republic of India are exempt from visa requirements for visits up to 14 calendar days.",
+    "notes": "The total duration of stay without visa must not exceed 42 calendar days within any 180-day period.",
+    "status": "draft",
+    "sortOrder": 20
+  },
+  {
+    "name": "Uzbekistan",
+    "slug": "uzbekistan",
+    "flag": "🇺🇿",
+    "image": "",
+    "tagline": "Official electronic visa documentation for visiting Uzbekistan.",
+    "processingTime": "3 working days",
+    "stayDuration": "Up to 30 days",
+    "validity": "90 days from date of issue",
+    "entryType": "Single, Double, or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 3 months beyond the validity period of the electronic visa",
+          "High quality digital photograph (35 x 45 mm, white background, JPEG format)",
+          "Flight reservations and hotel bookings in Uzbekistan"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Electronic Tourist Visa (Single Entry)",
+        "currency": "USD",
+        "embassyFee": 20,
+        "serviceFee": 0,
+        "processingTime": "3 working days",
+        "note": "Official state consular fee"
+      },
+      {
+        "visaType": "Electronic Tourist Visa (Double Entry)",
+        "currency": "USD",
+        "embassyFee": 35,
+        "serviceFee": 0,
+        "processingTime": "3 working days",
+        "note": "Official state consular fee"
+      },
+      {
+        "visaType": "Electronic Tourist Visa (Multiple Entry)",
+        "currency": "USD",
+        "embassyFee": 50,
+        "serviceFee": 0,
+        "processingTime": "3 working days",
+        "note": "Official state consular fee"
+      }
+    ],
+    "chargesNote": "Consular fees payable online through the official Uzbekistan e-Visa portal.",
+    "notes": "Foreign nationals must be registered at their place of stay (handled automatically by licensed hotels).",
+    "status": "draft",
+    "sortOrder": 21
+  },
+  {
+    "name": "Oman",
+    "slug": "oman",
+    "flag": "🇴🇲",
+    "image": "",
+    "tagline": "Official tourist e-Visa requirements for travel to the Sultanate of Oman.",
+    "processingTime": "Usually 2–4 working days",
+    "stayDuration": "10 days or 30 days",
+    "validity": "3 months from date of issue",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport copy valid for at least 6 months from entry date",
+          "Digital passport photograph",
+          "Confirmed return flight booking and hotel reservation in Oman"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist Visa (10 Days - Type 26A)",
+        "currency": "USD",
+        "embassyFee": 13,
+        "serviceFee": 0,
+        "processingTime": "2–4 working days",
+        "note": "Official Royal Oman Police fee (5 OMR)"
+      },
+      {
+        "visaType": "Tourist Visa (30 Days - Type 26B)",
+        "currency": "USD",
+        "embassyFee": 52,
+        "serviceFee": 0,
+        "processingTime": "2–4 working days",
+        "note": "Official Royal Oman Police fee (20 OMR)"
+      }
+    ],
+    "chargesNote": "Fees depend on visa class (Type 26A/26B/26M). Indian nationals holding a valid visa/residence permit from USA, Canada, UK, Schengen or Japan qualify for unsponsored tourist visa 26M/26N.",
+    "notes": "Indian citizens with a valid visa or residence permit from the USA, Canada, United Kingdom, Schengen countries, or Japan are eligible for an Oman tourist visa on arrival/e-Visa without an Omani sponsor.",
+    "status": "draft",
+    "sortOrder": 22
+  },
+  {
+    "name": "Qatar",
+    "slug": "qatar",
+    "flag": "🇶🇦",
+    "image": "",
+    "tagline": "Visa waiver on arrival regulations for Indian citizens visiting Qatar.",
+    "processingTime": "Immediate on arrival",
+    "stayDuration": "Up to 30 days",
+    "validity": "30 days on entry (extendable)",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months from date of arrival",
+          "Confirmed return flight ticket",
+          "Confirmed hotel reservation booked exclusively through Discover Qatar website for the full duration of stay"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Visa Waiver on Arrival (30 Days)",
+        "currency": "INR",
+        "embassyFee": 0,
+        "serviceFee": 0,
+        "processingTime": "Immediate on arrival",
+        "note": "Free of charge"
+      }
+    ],
+    "chargesNote": "Visa waiver is granted free of charge at the port of entry in Qatar.",
+    "notes": "Hotel accommodation MUST be booked through the official Discover Qatar portal to obtain the visa waiver on arrival.",
+    "status": "draft",
+    "sortOrder": 23
+  },
+  {
+    "name": "Saudi Arabia",
+    "slug": "saudi-arabia",
+    "flag": "🇸🇦",
+    "image": "",
+    "tagline": "Official tourist visa requirements and transit entry for Saudi Arabia.",
+    "processingTime": "Usually 24–48 hours online",
+    "stayDuration": "Up to 90 days",
+    "validity": "1 year (Multiple entry) or 90 days (Single entry)",
+    "entryType": "Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for minimum 6 months from entry date",
+          "Passport photograph with white background",
+          "Confirmed return or onward ticket",
+          "Mandatory health insurance approved by Saudi Council of Health Insurance (issued with visa)"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist e-Visa (1 Year Multiple Entry)",
+        "currency": "USD",
+        "embassyFee": 142,
+        "serviceFee": 0,
+        "processingTime": "24–48 hours",
+        "note": "Official MOFA fee (approx. 535 SAR including mandatory insurance)"
+      }
+    ],
+    "chargesNote": "Official tourist e-Visa is approx. 535 SAR (inclusive of mandatory medical insurance). Indian citizens holding a valid US, UK, or Schengen tourist/business visa that has been used at least once are eligible for Instant e-Visa on arrival.",
+    "notes": "Indian passport holders with an active, used visa from USA, UK, or Schengen area can apply directly for an eVisa or obtain Visa on Arrival at Saudi airports.",
+    "status": "draft",
+    "sortOrder": 24
+  },
+  {
+    "name": "Bahrain",
+    "slug": "bahrain",
+    "flag": "🇧🇭",
+    "image": "",
+    "tagline": "Official electronic visa documentation for visiting the Kingdom of Bahrain.",
+    "processingTime": "Usually 3–5 working days",
+    "stayDuration": "14 days or 30 days",
+    "validity": "30 days from date of approval",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Copy of passport biographical and address pages valid for at least 6 months",
+          "Confirmed return air ticket copy",
+          "Copy of hotel booking in Bahrain or relative/friend CPR card",
+          "Copy of stamped bank statement for the last 3 months with minimum required balance"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist e-Visa (14 Days Single Entry)",
+        "currency": "USD",
+        "embassyFee": 24,
+        "serviceFee": 0,
+        "processingTime": "3–5 working days",
+        "note": "Official NPRA Bahrain fee (9 BHD)"
+      },
+      {
+        "visaType": "Tourist e-Visa (30 Days Multiple Entry)",
+        "currency": "USD",
+        "embassyFee": 42,
+        "serviceFee": 0,
+        "processingTime": "3–5 working days",
+        "note": "Official NPRA Bahrain fee (16 BHD)"
+      }
+    ],
+    "chargesNote": "Official application fee is 4 BHD (non-refundable) plus 5 BHD visa issuance fee upon approval (or 9 BHD total, approx. 24 USD).",
+    "notes": "Indian passport holders must hold a valid return ticket and minimum 1,000 USD equivalent in bank funds.",
+    "status": "draft",
+    "sortOrder": 25
+  },
+  {
+    "name": "Kuwait",
+    "slug": "kuwait",
+    "flag": "🇰🇼",
+    "image": "",
+    "tagline": "Consular entry visa guidelines for traveling to Kuwait.",
+    "processingTime": "Usually 5–10 working days",
+    "stayDuration": "Up to 30 days",
+    "validity": "90 days from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport valid for at least 6 months",
+          "Two recent passport-size photographs",
+          "Confirmed flight itinerary",
+          "Hotel booking confirmation or sponsor invitation in Kuwait"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist Visitor Visa",
+        "currency": "USD",
+        "embassyFee": 10,
+        "serviceFee": 0,
+        "processingTime": "5–10 working days",
+        "note": "Official Ministry of Interior Kuwait consular fee (3 KWD)"
+      }
+    ],
+    "chargesNote": "Official consular visa fee is approx. 3 KWD (~10 USD); service charges apply at authorized visa application centres.",
+    "notes": "Check specific consular entry requirements based on sponsorship status or GCC residency.",
+    "status": "draft",
+    "sortOrder": 26
+  },
+  {
+    "name": "Jordan",
+    "slug": "jordan",
+    "flag": "🇯🇴",
+    "image": "",
+    "tagline": "Official entry visa documentation and Jordan Pass details for Indian travelers.",
+    "processingTime": "Usually 2–4 working days or on arrival",
+    "stayDuration": "Up to 30 days",
+    "validity": "Up to 3 months",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months from arrival date",
+          "Confirmed return flight ticket",
+          "Confirmed hotel reservation in Jordan",
+          "Proof of financial sufficiency"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Single Entry Tourist Visa (1 Month)",
+        "currency": "USD",
+        "embassyFee": 56,
+        "serviceFee": 0,
+        "processingTime": "2–4 working days",
+        "note": "40 JOD official government visa fee (approx. 56 USD)"
+      }
+    ],
+    "chargesNote": "Visa fee of 40 JOD is waived if you purchase the Jordan Pass and stay a minimum of 3 consecutive nights.",
+    "notes": "Purchasing the Jordan Pass online prior to arrival covers entry to over 40 attractions including Petra and waives the single entry visa fee.",
+    "status": "draft",
+    "sortOrder": 27
+  },
+  {
+    "name": "Schengen Area (Europe)",
+    "slug": "schengen",
+    "flag": "🇪🇺",
+    "image": "",
+    "tagline": "Uniform short-stay Schengen (Type C) visa requirements for 29 European countries.",
+    "processingTime": "Usually 15 calendar days (up to 45 days in peak periods)",
+    "stayDuration": "Up to 90 days in any 180-day period",
+    "validity": "As granted (up to 5 years under cascade rules)",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport issued within the last 10 years, valid for at least 3 months after departure from Schengen, with at least 2 blank pages",
+          "Completed and signed Schengen visa application form",
+          "Two biometric photographs (35 x 45 mm, white background, 80% face view)",
+          "Travel medical insurance covering entire Schengen territory with minimum coverage of 30,000 EUR",
+          "Round trip flight reservation / travel itinerary",
+          "Proof of accommodation for entire stay in Schengen territory",
+          "Personal bank statements for the last 3 to 6 months with original bank stamp",
+          "Income Tax Returns (ITR-V) for the last 3 assessment years"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Employment contract or appointment letter",
+          "Leave sanction certificate / NOC from employer",
+          "Salary slips for the last 3 months"
+        ]
+      },
+      {
+        "title": "If you are self-employed / business",
+        "items": [
+          "Company registration certificate / GST certificate",
+          "Company bank account statements for the last 6 months",
+          "Company income tax returns"
+        ]
+      },
+      {
+        "title": "Minor / children",
+        "items": [
+          "Birth certificate of the minor",
+          "Signed notarized parental consent if minor is traveling alone or with one parent",
+          "Passport copies of both parents"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Schengen Short-Stay Visa (Type C - Adult)",
+        "currency": "EUR",
+        "embassyFee": 90,
+        "serviceFee": 0,
+        "processingTime": "15 calendar days",
+        "note": "Official EU visa fee (Regulation 2024/1415)"
+      },
+      {
+        "visaType": "Schengen Short-Stay Visa (Child 6–12 Years)",
+        "currency": "EUR",
+        "embassyFee": 45,
+        "serviceFee": 0,
+        "processingTime": "15 calendar days",
+        "note": "Official EU visa fee for children aged 6 to 12"
+      }
+    ],
+    "chargesNote": "Official Schengen visa fee increased to 90 EUR for adults and 45 EUR for children on 11 June 2024. Children under 6 are free. VFS/TLS/BLS logistics fees apply separately.",
+    "notes": "Under the EU Visa Cascade regime adopted in 2024, Indian nationals who have lawfully used two Schengen visas in the previous three years may obtain a 2-year multi-entry visa, followed by a 5-year visa.",
+    "status": "draft",
+    "sortOrder": 28
+  },
+  {
+    "name": "United Kingdom",
+    "slug": "united-kingdom",
+    "flag": "🇬🇧",
+    "image": "",
+    "tagline": "Standard Visitor Visa documentation and filing rules for travel to the UK.",
+    "processingTime": "Usually 3 weeks (15 working days)",
+    "stayDuration": "Up to 6 months per visit",
+    "validity": "6 months, 2 years, 5 years, or 10 years",
+    "entryType": "Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport with at least 1 blank page (valid for the duration of stay)",
+          "Completed online visa application form and biometric appointment confirmation",
+          "Proof of sufficient funds (personal bank statements for the last 6 months)",
+          "Income Tax Returns (ITR) for the last 2 to 3 years",
+          "Detailed travel itinerary explaining purpose of visit"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Employer letter confirming employment, salary, tenure, and approved leave",
+          "Salary slips for the last 6 months"
+        ]
+      },
+      {
+        "title": "If you are self-employed / business",
+        "items": [
+          "Business registration documents (GST, Certificate of Incorporation)",
+          "Company bank statements and business tax returns"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Standard Visitor Visa (6 Months)",
+        "currency": "USD",
+        "embassyFee": 145,
+        "serviceFee": 0,
+        "processingTime": "3 weeks",
+        "note": "Official UK Visas and Immigration (UKVI) fee (£115 base rate)"
+      }
+    ],
+    "chargesNote": "UKVI fees are fixed in GBP (£115 for 6 months) and converted automatically to USD/INR by the official portal at payment.",
+    "notes": "Do not purchase non-refundable flight tickets or hotel accommodation before receiving your visa decision.",
+    "status": "draft",
+    "sortOrder": 29
+  },
+  {
+    "name": "Ireland",
+    "slug": "ireland",
+    "flag": "🇮🇪",
+    "image": "",
+    "tagline": "Short stay tourist 'C' visa documentation for the Republic of Ireland.",
+    "processingTime": "Usually 4–6 weeks",
+    "stayDuration": "Up to 90 days",
+    "validity": "Up to 3 months from issue",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport valid for at least 6 months after departure from Ireland",
+          "Signed summary application form from AVATS online system",
+          "Two passport-sized color photos (35 x 45 mm, white background)",
+          "Signed letter of application stating purpose of visit and full itinerary",
+          "Bank statements for the last 6 months showing clear transaction history",
+          "Private medical and travel insurance"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Letter from employer stating job title, salary, dates of approved leave",
+          "Recent pay slips"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Short Stay 'C' Visa (Single Journey)",
+        "currency": "EUR",
+        "embassyFee": 60,
+        "serviceFee": 0,
+        "processingTime": "4–6 weeks",
+        "note": "Official Department of Justice Ireland consular fee"
+      },
+      {
+        "visaType": "Short Stay 'C' Visa (Multi Journey)",
+        "currency": "EUR",
+        "embassyFee": 100,
+        "serviceFee": 0,
+        "processingTime": "4–6 weeks",
+        "note": "Official Department of Justice Ireland consular fee"
+      }
+    ],
+    "chargesNote": "Official fees set by Immigration Service Delivery, Ireland.",
+    "notes": "Under the British-Irish Visa Scheme (BIVS), Indian nationals holding a valid UK visitor visa with 'BIVS' endorsement can travel to Ireland after first entering the UK.",
+    "status": "draft",
+    "sortOrder": 30
+  },
+  {
+    "name": "United States of America",
+    "slug": "usa",
+    "flag": "🇺🇸",
+    "image": "",
+    "tagline": "B1/B2 tourist and business visitor visa requirements for the United States.",
+    "processingTime": "Interview appointment wait times vary by consulate; 3–5 days after interview",
+    "stayDuration": "Up to 6 months per entry (as granted by CBP on arrival)",
+    "validity": "Up to 10 years",
+    "entryType": "Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport valid for travel to the United States (minimum 6 months beyond intended stay)",
+          "DS-160 online application confirmation page with barcode",
+          "Appointment confirmation page for VAC biometrics and consular interview",
+          "One 2 x 2 inches (51 x 51 mm) photograph taken within the last 6 months",
+          "Proof of financial ability to cover trip expenses",
+          "Evidence of strong ties to India (property, family, employment)"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Employment letter stating role, salary, length of employment, and approved leave",
+          "Pay stubs for the most recent 3 months",
+          "Income Tax Returns (ITR) for the last 3 years"
+        ]
+      },
+      {
+        "title": "If you are self-employed / business",
+        "items": [
+          "Business registration certificate",
+          "Company and personal bank statements for the last 6 months",
+          "Business Income Tax Returns"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Non-Immigrant Visitor Visa (B1/B2 MRV Fee)",
+        "currency": "USD",
+        "embassyFee": 185,
+        "serviceFee": 0,
+        "processingTime": "Appointment dependent",
+        "note": "Official US Department of State Machine Readable Visa fee"
+      }
+    ],
+    "chargesNote": "The MRV application fee of 185 USD is mandatory and non-refundable under all circumstances.",
+    "notes": "Both biometric fingerprinting (at a Visa Application Center) and an in-person consular interview are mandatory for first-time applicants aged 14 to 79.",
+    "status": "draft",
+    "sortOrder": 31
+  },
+  {
+    "name": "Canada",
+    "slug": "canada",
+    "flag": "🇨🇦",
+    "image": "",
+    "tagline": "Temporary Resident Visitor Visa application guidelines for Canada.",
+    "processingTime": "Usually 3–6 weeks",
+    "stayDuration": "Up to 6 months per visit",
+    "validity": "Up to 10 years or passport expiry",
+    "entryType": "Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Valid passport with at least 1 blank page",
+          "Completed application forms (IMM 5257 and Family Information IMM 5645)",
+          "Two digital passport photographs meeting IRCC specifications",
+          "Proof of financial support (bank statements for last 4 to 6 months, tax documents)",
+          "Purpose of travel and detailed itinerary",
+          "Proof of ties to home country"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Employment confirmation letter and leave approval",
+          "Pay slips for the last 4 months"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Temporary Resident Visa (Visitor Visa - per person)",
+        "currency": "USD",
+        "embassyFee": 75,
+        "serviceFee": 0,
+        "processingTime": "3–6 weeks",
+        "note": "100 CAD official IRCC application fee"
+      },
+      {
+        "visaType": "Biometrics Fee (Individual)",
+        "currency": "USD",
+        "embassyFee": 65,
+        "serviceFee": 0,
+        "processingTime": "At appointment",
+        "note": "85 CAD official IRCC biometric fee"
+      }
+    ],
+    "chargesNote": "Official IRCC fees are 100 CAD for visa processing and 85 CAD for biometrics.",
+    "notes": "Biometrics (fingerprints and photo) are valid for 10 years and are required unless previously submitted.",
+    "status": "draft",
+    "sortOrder": 32
+  },
+  {
+    "name": "Australia",
+    "slug": "australia",
+    "flag": "🇦🇺",
+    "image": "",
+    "tagline": "Visitor Visa (Subclass 600) Tourist Stream requirements for Australia.",
+    "processingTime": "Usually 15–30 working days",
+    "stayDuration": "3, 6, or 12 months as granted",
+    "validity": "Up to 12 months",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Clear scanned color copy of all passport pages (including blank and stamped pages)",
+          "National Identity Card (Aadhaar / PAN)",
+          "Evidence of financial sufficiency (bank statements for the last 6 months, ITR for last 3 years)",
+          "Travel itinerary detailing planned tourism activities and stays",
+          "Evidence of incentive to return to India (employment, property, family)"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Letter from employer on letterhead stating salary, title, and approved leave duration",
+          "Payslips for the last 3 months"
+        ]
+      },
+      {
+        "title": "If you are self-employed / business",
+        "items": [
+          "Business registration certificate",
+          "Company bank account statements and company tax returns"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Visitor Visa (Subclass 600 - Tourist Stream)",
+        "currency": "USD",
+        "embassyFee": 125,
+        "serviceFee": 0,
+        "processingTime": "15–30 working days",
+        "note": "190 AUD official Department of Home Affairs fee"
+      }
+    ],
+    "chargesNote": "Official visa fee is 190 AUD payable online through ImmiAccount. Biometric collection fee at VFS Australia applies in India.",
+    "notes": "Australian visas are completely electronic (label-free); no passport stamping is required.",
+    "status": "draft",
+    "sortOrder": 33
+  },
+  {
+    "name": "New Zealand",
+    "slug": "new-zealand",
+    "flag": "🇳🇿",
+    "image": "",
+    "tagline": "Visitor Visa documentation and International Visitor Levy for New Zealand.",
+    "processingTime": "Usually 4–6 weeks",
+    "stayDuration": "Up to 9 months",
+    "validity": "Up to 18 months",
+    "entryType": "Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Clear scan of passport identity pages and all stamped pages (valid at least 3 months past departure)",
+          "Digital passport photograph meeting Immigration New Zealand requirements",
+          "Proof of funds (minimum 1,000 NZD per month of stay or 400 NZD if accommodation is prepaid)",
+          "Outward travel ticket or evidence of sufficient funds to purchase one",
+          "Evidence of employment and approved leave in India"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Visitor Visa + International Visitor Levy (IVL)",
+        "currency": "USD",
+        "embassyFee": 190,
+        "serviceFee": 0,
+        "processingTime": "4–6 weeks",
+        "note": "211 NZD application fee + 100 NZD IVL levy"
+      }
+    ],
+    "chargesNote": "Total official government fee is 311 NZD (211 NZD application fee + 100 NZD IVL).",
+    "notes": "All applicants must be in good health and character. Medical examinations or chest X-rays may be requested.",
+    "status": "draft",
+    "sortOrder": 34
+  },
+  {
+    "name": "Japan",
+    "slug": "japan",
+    "flag": "🇯🇵",
+    "image": "",
+    "tagline": "Tourist visa and electronic visa application requirements for Japan.",
+    "processingTime": "Usually 5–7 working days",
+    "stayDuration": "Up to 15, 30, or 90 days",
+    "validity": "3 months (Single entry) or up to 3–5 years (Multiple entry)",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport with at least 2 blank pages (valid at least 6 months)",
+          "Visa application form with photo (4.5 x 3.5 cm, white background, taken within 6 months)",
+          "Daily schedule of stay (Itinerary in Japan - Taizai Nitteisho)",
+          "Confirmed return flight booking and hotel vouchers",
+          "Personal bank statement for the last 6 months with bank seal",
+          "Income Tax Return (ITR-V) for the latest assessment year"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Certificate of employment and leave sanction letter",
+          "Salary slips for the last 3 months"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Single Entry Tourist Visa",
+        "currency": "INR",
+        "embassyFee": 1700,
+        "serviceFee": 0,
+        "processingTime": "5–7 working days",
+        "note": "3,000 JPY official Ministry of Foreign Affairs consular fee"
+      }
+    ],
+    "chargesNote": "Consular fee is 3,000 JPY (equivalent in INR set annually by the Embassy of Japan). VFS logistics fee charged separately.",
+    "notes": "e-Visa facility is available for Indian nationals for short-term single-entry tourism.",
+    "status": "draft",
+    "sortOrder": 35
+  },
+  {
+    "name": "South Korea",
+    "slug": "south-korea",
+    "flag": "🇰🇷",
+    "image": "",
+    "tagline": "Official short-term tourist (C-3-9) visa guidelines for South Korea.",
+    "processingTime": "Usually 7–10 working days",
+    "stayDuration": "Up to 90 days",
+    "validity": "3 months from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport valid for at least 6 months",
+          "Visa application form with one passport photograph (3.5 x 4.5 cm, white background)",
+          "Personal bank statement for the last 6 months with original bank stamp",
+          "Income Tax Returns (ITR-V) for the last 2 years",
+          "Flight itinerary and hotel reservation details"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Employment certificate stating joining date, designation, and salary",
+          "Salary slips for the last 3 months"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Short-Term Tourist Visa (C-3-9 Single Entry)",
+        "currency": "USD",
+        "embassyFee": 40,
+        "serviceFee": 0,
+        "processingTime": "7–10 working days",
+        "note": "Official Ministry of Justice visa fee"
+      }
+    ],
+    "chargesNote": "Official consular fee payable through Korea Visa Application Center (KVAC).",
+    "notes": "Physical passport submission through KVAC is required for visa issuance.",
+    "status": "draft",
+    "sortOrder": 36
+  },
+  {
+    "name": "Hong Kong",
+    "slug": "hong-kong",
+    "flag": "🇭🇰",
+    "image": "",
+    "tagline": "Pre-arrival Registration (PAR) regulations for Indian nationals visiting Hong Kong.",
+    "processingTime": "Instant online registration",
+    "stayDuration": "Up to 14 days per visit",
+    "validity": "6 months",
+    "entryType": "Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months from arrival date",
+          "Printed copy of the approved Pre-arrival Registration (PAR) slip on A4 paper",
+          "Confirmed return or onward air tickets",
+          "Proof of accommodation and sufficient funds"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Pre-arrival Registration (PAR)",
+        "currency": "INR",
+        "embassyFee": 0,
+        "serviceFee": 0,
+        "processingTime": "Instant",
+        "note": "Free online registration on official ImmD portal"
+      }
+    ],
+    "chargesNote": "Pre-arrival Registration is free of charge through the official Hong Kong Immigration Department website.",
+    "notes": "The PAR slip must be printed on a white A4 sheet and presented at airline check-in and immigration control.",
+    "status": "draft",
+    "sortOrder": 37
+  },
+  {
+    "name": "China",
+    "slug": "china",
+    "flag": "🇨🇳",
+    "image": "",
+    "tagline": "Tourist (L) visa requirements and consular documentation for visiting China.",
+    "processingTime": "Usually 4–6 working days",
+    "stayDuration": "Up to 30 days",
+    "validity": "3 months from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Original passport with at least 6 months remaining validity and blank visa pages",
+          "Completed online visa application form and confirmation page (COVA)",
+          "Two recent photographs (33 x 48 mm, bareheaded, full face, white background)",
+          "Round-trip air ticket booking confirmation",
+          "Proof of hotel reservation for entire duration in China",
+          "Bank statement for the last 6 months with minimum balance"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Employment letter / NOC on company letterhead",
+          "Recent pay slips"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Tourist Visa (L - Single Entry)",
+        "currency": "INR",
+        "embassyFee": 2400,
+        "serviceFee": 0,
+        "processingTime": "4–6 working days",
+        "note": "Official Chinese Embassy consular visa fee for Indian citizens"
+      }
+    ],
+    "chargesNote": "Official consular fee is 2,400 INR. Chinese Visa Application Service Center (CVASC) service fees apply separately.",
+    "notes": "Biometrics are taken at the Chinese Visa Application Service Center.",
+    "status": "draft",
+    "sortOrder": 38
+  },
+  {
+    "name": "South Africa",
+    "slug": "south-africa",
+    "flag": "🇿🇦",
+    "image": "",
+    "tagline": "Visitor visa documentation and requirements for traveling to South Africa.",
+    "processingTime": "Usually 10–15 working days",
+    "stayDuration": "Up to 90 days",
+    "validity": "Up to 90 days as approved",
+    "entryType": "Single or Multiple entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 30 days after intended departure with at least 2 consecutive blank pages",
+          "Completed Form DHA-84 signed by applicant",
+          "Two recent color photographs (35 x 45 mm, white background)",
+          "Confirmed return flight booking and detailed day-to-day itinerary",
+          "Proof of hotel accommodation in South Africa",
+          "Original personal bank statements for the last 3 months with bank stamp"
+        ]
+      },
+      {
+        "title": "If you are employed",
+        "items": [
+          "Employment letter stating designation, salary, and authorized leave",
+          "Salary slips for the last 3 months"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Visitor's Visa (Section 11(1) - up to 90 days)",
+        "currency": "INR",
+        "embassyFee": 0,
+        "serviceFee": 0,
+        "processingTime": "10–15 working days",
+        "note": "Consular visa fee is waived for Indian passport holders"
+      }
+    ],
+    "chargesNote": "Department of Home Affairs South Africa waives the visa fee for Indian nationals. VFS Global logistics fees apply.",
+    "notes": "Yellow fever vaccination certificate is mandatory if traveling through or from a yellow fever endemic country.",
+    "status": "draft",
+    "sortOrder": 39
+  },
+  {
+    "name": "Kenya",
+    "slug": "kenya",
+    "flag": "🇰🇪",
+    "image": "",
+    "tagline": "Official electronic Travel Authorisation (eTA) guidelines for Kenya.",
+    "processingTime": "Usually 3 working days",
+    "stayDuration": "Up to 90 days",
+    "validity": "Valid for single entry trip",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months from arrival date with at least 1 blank page",
+          "Recent passport-style photograph",
+          "Confirmed flight booking (arrival and departure)",
+          "Confirmed hotel booking or letter of invitation from host in Kenya"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Electronic Travel Authorisation (eTA)",
+        "currency": "USD",
+        "embassyFee": 32.5,
+        "serviceFee": 0,
+        "processingTime": "3 working days",
+        "note": "Official government fee payable on etakenya.go.ke"
+      }
+    ],
+    "chargesNote": "Kenya replaced traditional visas with the electronic Travel Authorisation (eTA) for all international visitors.",
+    "notes": "Yellow fever certificate is required for passengers arriving from endemic countries.",
+    "status": "draft",
+    "sortOrder": 40
+  },
+  {
+    "name": "Tanzania",
+    "slug": "tanzania",
+    "flag": "🇹🇿",
+    "image": "",
+    "tagline": "Official e-Visa and tourist entry regulations for Tanzania and Zanzibar.",
+    "processingTime": "Usually 10 working days",
+    "stayDuration": "Up to 90 days",
+    "validity": "90 days from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport valid for at least 6 months from entry date",
+          "Recent passport photograph",
+          "Confirmed return flight ticket",
+          "Hotel booking confirmation or safari tour itinerary"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Ordinary Tourist Visa (Single Entry)",
+        "currency": "USD",
+        "embassyFee": 50,
+        "serviceFee": 0,
+        "processingTime": "10 working days",
+        "note": "Official Tanzania Immigration Services Department fee"
+      }
+    ],
+    "chargesNote": "Fee of 50 USD is non-refundable and payable online through the official Tanzania e-Visa portal.",
+    "notes": "Zanzibar visitors must also purchase the mandatory Zanzibar Inbound Travel Insurance.",
+    "status": "draft",
+    "sortOrder": 41
+  },
+  {
+    "name": "Russia",
+    "slug": "russia",
+    "flag": "🇷🇺",
+    "image": "",
+    "tagline": "Unified electronic visa (e-Visa) application requirements for the Russian Federation.",
+    "processingTime": "Usually 4 calendar days",
+    "stayDuration": "Up to 16 calendar days",
+    "validity": "60 days from date of issue",
+    "entryType": "Single entry",
+    "documentGroups": [
+      {
+        "title": "Common documents",
+        "items": [
+          "Passport with machine-readable zone, valid for at least 6 months from the date of application, with blank space for border stamps",
+          "Digital photo in JPEG format (aspect ratio 3:4, light background)",
+          "Travel medical insurance valid across the Russian Federation",
+          "Flight reservation and hotel booking details"
+        ]
+      }
+    ],
+    "charges": [
+      {
+        "visaType": "Unified Electronic Visa (e-Visa)",
+        "currency": "USD",
+        "embassyFee": 52,
+        "serviceFee": 0,
+        "processingTime": "4 calendar days",
+        "note": "Official Ministry of Foreign Affairs of Russia fee"
+      }
+    ],
+    "chargesNote": "Official consular e-visa fee is approx. 52 USD including payment processing charges.",
+    "notes": "Apply on the official consular website of the Ministry of Foreign Affairs of Russia no earlier than 40 days and no later than 4 days before departure.",
+    "status": "draft",
+    "sortOrder": 42
+  }
+]

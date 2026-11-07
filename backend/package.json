@@ -1,0 +1,38 @@
+{
+  "name": "arham-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "REST API and admin backend for the Arham Tours & Travels website",
+  "type": "module",
+  "main": "src/server.js",
+  "engines": {
+    "node": ">=20.19"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "dev:memory": "node scripts/devMemoryServer.js",
+    "seed:admin": "node scripts/seedAdmin.js",
+    "seed:content": "node scripts/seedContent.js",
+    "import:visa": "node scripts/importVisa.js",
+    "check": "node scripts/checkSyntax.js",
+    "test": "node --test --test-concurrency=1 tests/api.test.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.24.7",
+    "morgan": "^1.10.0",
+    "multer": "^2.0.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^11.3.0"
+  }
+}
