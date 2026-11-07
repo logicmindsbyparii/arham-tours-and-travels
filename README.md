@@ -252,5 +252,3 @@ Set them under **Business settings** in the admin:
 Build-time SEO tags and `sitemap.xml` (`frontend/scripts/prerender.js`) still
 use `frontend/src/config/business.js`; the home page title and description
 set in the admin apply while the page runs.
-admin email :- admin@example.com
-admin pass :- Admin@1234
