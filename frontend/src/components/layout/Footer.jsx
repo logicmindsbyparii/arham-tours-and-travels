@@ -83,8 +83,14 @@ function Footer() {
 
         {/* Designed & Developed by Logic Minds by Pari */}
         <div className="flex items-center justify-center pb-6 pt-2">
-          <div className="group inline-flex flex-wrap items-center justify-center gap-2.5 text-xs text-mist/80">
-            <span className="hidden h-px w-10 bg-gradient-to-r from-transparent to-paper/20 sm:inline-block" />
+          <a
+            href="https://logicmindsbyparii.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Designed & Developed by Logic Minds by Pari (opens in a new tab)"
+            className="group inline-flex flex-wrap items-center justify-center gap-2.5 text-xs text-mist/80 cursor-pointer transition-opacity hover:opacity-95"
+          >
+            <span className="hidden h-px w-10 bg-gradient-to-r from-transparent to-paper/20 sm:inline-block transition-all duration-300 group-hover:w-14 group-hover:to-sky-400/40" />
             <span className="text-[11px] uppercase tracking-[0.2em] text-mist/60 transition-colors group-hover:text-mist">
               Designed &amp; Developed by
             </span>
@@ -94,8 +100,8 @@ function Footer() {
             <span className="text-[12px] font-normal italic tracking-normal text-sky-400 transition-colors group-hover:text-sky-300">
               by Pari
             </span>
-            <span className="hidden h-px w-10 bg-gradient-to-l from-transparent to-paper/20 sm:inline-block" />
-          </div>
+            <span className="hidden h-px w-10 bg-gradient-to-l from-transparent to-paper/20 sm:inline-block transition-all duration-300 group-hover:w-14 group-hover:to-sky-400/40" />
+          </a>
         </div>
 
         <div className="border-t border-paper/10" />
