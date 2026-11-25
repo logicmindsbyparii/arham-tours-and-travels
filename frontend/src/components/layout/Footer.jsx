@@ -81,9 +81,9 @@ function Footer() {
           </div>
         </div>
 
-        {/* Designed & Developed by Logic Minds */}
+        {/* Designed & Developed by Logic Minds by Pari */}
         <div className="flex items-center justify-center pb-6">
-          <div className="group inline-flex items-center gap-2.5 rounded-full border border-paper/10 bg-paper/[0.04] px-4 py-1.5 shadow-[0_2px_12px_rgba(0,0,0,0.25)] backdrop-blur-xs transition-all duration-300 hover:border-sky-400/40 hover:bg-paper/[0.08]">
+          <div className="group inline-flex items-center gap-2.5 rounded-full border border-paper/10 bg-paper/[0.04] px-4 py-1.5 shadow-[0_4px_16px_rgba(0,0,0,0.3)] backdrop-blur-xs transition-all duration-300 hover:border-sky-400/50 hover:bg-paper/[0.08] hover:shadow-[0_0_20px_rgba(56,189,248,0.15)]">
             <span className="relative flex h-2 w-2">
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-sky-400 opacity-60" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-sky-400 shadow-[0_0_8px_#38bdf8]" />
@@ -91,8 +91,13 @@ function Footer() {
             <span className="text-xs font-normal tracking-wide text-mist transition-colors group-hover:text-paper">
               Designed &amp; Developed by
             </span>
-            <span className="text-xs font-semibold tracking-wider text-paper transition-colors group-hover:text-sky-300">
-              Logic Minds
+            <span className="inline-flex items-center gap-1.5 text-xs">
+              <span className="font-bold tracking-wider text-paper transition-colors group-hover:text-white">
+                Logic Minds
+              </span>
+              <span className="rounded-full border border-sky-400/30 bg-sky-400/10 px-2 py-0.5 text-[11px] font-medium italic tracking-wide text-sky-300 transition-all duration-300 group-hover:border-sky-300 group-hover:bg-sky-400/20 group-hover:text-white">
+                by Pari
+              </span>
             </span>
           </div>
         </div>
