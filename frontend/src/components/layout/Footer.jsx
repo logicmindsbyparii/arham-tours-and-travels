@@ -14,7 +14,7 @@ function Footer() {
   return (
     <footer className="relative overflow-hidden bg-ink pt-20 text-paper">
       <Container>
-        <div className="grid gap-12 border-b border-paper/10 pb-14 lg:grid-cols-[1.3fr_2fr]">
+        <div className="grid gap-12 pb-12 lg:grid-cols-[1.3fr_2fr]">
           <div>
             <SiteLink href="#top" aria-label={`${business.name}, home`} className="inline-block rounded-md">
               <Logo onDark />
@@ -81,15 +81,21 @@ function Footer() {
           </div>
         </div>
 
+        {/* Designed & Developed by Logic Minds (Centered above the divider line) */}
+        <div className="flex items-center justify-center pt-2 pb-8 text-center">
+          <p className="inline-flex flex-wrap items-center justify-center gap-2 text-sm sm:text-base tracking-wide">
+            <span className="font-medium text-white">Designed &amp; Developed by</span>
+            <span className="font-bold tracking-wider text-sky-400 drop-shadow-xs transition-colors hover:text-sky-300">
+              Logic Minds
+            </span>
+          </p>
+        </div>
+
+        <div className="border-t border-paper/10" />
+
         <div className="flex flex-col gap-4 py-8 text-xs text-mist sm:flex-row sm:items-center sm:justify-between">
           <p className="leading-relaxed text-mist/80">
             © {year} {business.name}, a brand of {business.legalName}. All rights reserved.
-          </p>
-          <p className="inline-flex items-center gap-1.5 text-xs text-mist">
-            <span>Designed &amp; Developed by</span>
-            <span className="font-semibold tracking-wide text-paper transition-colors duration-200 hover:text-sky-soft">
-              Logic Minds
-            </span>
           </p>
           {/* Stays on the current page: only scrolls back up. */}
           <button
