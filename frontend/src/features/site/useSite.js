@@ -77,6 +77,7 @@ export function normalizeBusiness(settings) {
   // Commercial complex on Google Maps that pins directly and opens turn-by-turn directions without error:
   const mapDestination = 'Aagam Emporio, U M Road, Vesu, Surat, Gujarat 395007'
   const mapQuery = encodeURIComponent(mapDestination)
+  const mapUrl = `https://www.google.com/maps/search/?api=1&query=${mapQuery}`
   return {
     name: settings.businessName || 'Arham Tours & Travels',
     legalName: settings.legalName || 'Arham Holiday Designer LLP',
@@ -89,8 +90,8 @@ export function normalizeBusiness(settings) {
     emails: settings.email ? [settings.email] : [],
     addressLines: address.length > 0 ? address : ['9SF, Aagam Emporio', 'U M Road, Vesu, Surat, Gujarat 395007'],
     mapLocation: mapDestination,
-    mapUrl: `https://www.google.com/maps/search/?api=1&query=${mapQuery}`,
-    directionsUrl: `https://www.google.com/maps/dir/?api=1&destination=${mapQuery}`,
+    mapUrl,
+    directionsUrl: mapUrl,
     mapEmbedUrl: `https://maps.google.com/maps?q=${mapQuery}&output=embed`,
     socialLinks: (settings.socialLinks ?? []).map((link) => ({ label: link.label, href: link.url })),
     logo: resolveImage(settings.logo),

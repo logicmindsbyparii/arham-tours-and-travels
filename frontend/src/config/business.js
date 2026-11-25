@@ -33,7 +33,7 @@ export const MAP_DESTINATION = 'Aagam Emporio, U M Road, Vesu, Surat, Gujarat 39
 
 export const MAP_URL = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(MAP_DESTINATION)}`
 
-export const DIRECTIONS_URL = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(MAP_DESTINATION)}`
+export const DIRECTIONS_URL = MAP_URL
 
 // Google Maps embed for the Contact page (needs no API key).
 export const MAP_EMBED_URL = `https://maps.google.com/maps?q=${encodeURIComponent(MAP_DESTINATION)}&output=embed`

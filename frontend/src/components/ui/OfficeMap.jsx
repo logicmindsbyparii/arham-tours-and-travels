@@ -31,7 +31,7 @@ function OfficeMap({ className = '' }) {
           </span>
         </address>
         <a
-          href={business.directionsUrl || business.mapUrl}
+          href={business.mapUrl}
           target="_blank"
           rel="noopener noreferrer"
           className="group/dir mt-3 inline-flex shrink-0 items-center gap-2 rounded-full bg-ink px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-sky sm:mt-0"
