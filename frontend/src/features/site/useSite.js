@@ -74,7 +74,8 @@ export function resolveFaqs(apiFaqs = {}) {
 // Business details in the shape the components use.
 export function normalizeBusiness(settings) {
   const address = (settings.addressLines ?? []).filter(Boolean)
-  const mapQuery = encodeURIComponent([settings.legalName || settings.businessName, ...address].join(', '))
+  const mapLocation = 'Arham Holiday ,agam Emporio 9, 2nd floor, U M Road, Surat'
+  const mapQuery = encodeURIComponent(mapLocation)
   return {
     name: settings.businessName,
     legalName: settings.legalName || settings.businessName,
@@ -86,7 +87,9 @@ export function normalizeBusiness(settings) {
     phones: (settings.phones ?? []).map((phone) => ({ label: phone.label, href: `tel:+${phone.number}` })),
     emails: settings.email ? [settings.email] : [],
     addressLines: address,
+    mapLocation,
     mapUrl: `https://www.google.com/maps/search/?api=1&query=${mapQuery}`,
+    directionsUrl: `https://www.google.com/maps/dir/?api=1&destination=${mapQuery}`,
     mapEmbedUrl: `https://maps.google.com/maps?q=${mapQuery}&output=embed`,
     socialLinks: (settings.socialLinks ?? []).map((link) => ({ label: link.label, href: link.url })),
     logo: resolveImage(settings.logo),

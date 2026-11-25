@@ -28,14 +28,14 @@ export const ADDRESS = {
   lines: ['Aagam Emporio 9, 2nd floor', 'U M Road, Surat'],
 }
 
-export const MAP_URL = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-  `${BUSINESS.legalName}, ${ADDRESS.lines.join(', ')}`,
-)}`
+export const MAP_LOCATION = 'Arham Holiday ,agam Emporio 9, 2nd floor, U M Road, Surat'
+
+export const MAP_URL = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(MAP_LOCATION)}`
+
+export const DIRECTIONS_URL = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(MAP_LOCATION)}`
 
 // Google Maps embed for the Contact page (needs no API key).
-export const MAP_EMBED_URL = `https://maps.google.com/maps?q=${encodeURIComponent(
-  `${BUSINESS.legalName}, ${ADDRESS.lines.join(', ')}`,
-)}&output=embed`
+export const MAP_EMBED_URL = `https://maps.google.com/maps?q=${encodeURIComponent(MAP_LOCATION)}&output=embed`
 
 // The address this website is published at, with no trailing slash. Used for
 // canonical links, the sitemap and search-engine structured data.
