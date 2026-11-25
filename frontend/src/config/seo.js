@@ -40,7 +40,7 @@ export const PAGES = {
   '/about': {
     label: 'About us',
     title: `About Us: Travel Agency in Surat | ${BUSINESS.name}`,
-    description: `${BUSINESS.name} is the travel brand of ${BUSINESS.legalName}, a travel agency in Surat planning group tours, holidays, flights, visas and hotels as one plan.`,
+    description: `${BUSINESS.name} is the travel brand of ${BUSINESS.legalName}, a travel agency in Surat planning group tours, holidays, flights, visas, cruises, passports and hotels as one plan.`,
   },
   '/contact': {
     label: 'Contact',

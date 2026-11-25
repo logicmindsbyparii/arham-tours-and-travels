@@ -421,7 +421,7 @@ export const siteContent = [
     title: 'A travel agency in Surat,',
     accent: 'planning every detail.',
     intro:
-      'Arham Tours & Travels is the travel brand of Arham Holiday Designer LLP. We plan group tours, holidays, flights, visas and hotels as one plan, from our office on U M Road.',
+      'Arham Tours & Travels is the travel brand of Arham Holiday Designer LLP. We plan group tours, holidays, flights, visas, cruises, passports and hotels as one plan, from our office on U M Road.',
     image: 'asset:mountain-valley',
   },
   {
