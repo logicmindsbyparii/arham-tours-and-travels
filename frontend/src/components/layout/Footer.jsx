@@ -1,4 +1,4 @@
-import { ArrowUp, Sparkles } from 'lucide-react'
+import { ArrowUp } from 'lucide-react'
 import Logo from '../ui/Logo.jsx'
 import Container from '../ui/Container.jsx'
 import SiteLink from '../ui/SiteLink.jsx'
@@ -81,25 +81,20 @@ function Footer() {
           </div>
         </div>
 
-        {/* Designed & Developed by Logic Minds by Pari - 3D Signature Badge */}
-        <div className="flex items-center justify-center pb-8 pt-2">
-          <div className="group relative inline-flex items-center gap-3 rounded-2xl border-t border-white/20 border-b border-black/80 bg-gradient-to-b from-[#1e293b] via-[#0f172a] to-[#090d16] px-5 py-2.5 sm:px-6 sm:py-3 shadow-[0_16px_36px_-6px_rgba(0,0,0,0.9),0_0_28px_-4px_rgba(56,189,248,0.25),inset_0_1px_1px_rgba(255,255,255,0.25),inset_0_-2px_4px_rgba(0,0,0,0.8)] backdrop-blur-md transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_45px_-6px_rgba(56,189,248,0.35),0_0_35px_rgba(56,189,248,0.3),inset_0_1px_2px_rgba(255,255,255,0.4)]">
-            {/* 3D Glowing Icon Tile */}
-            <div className="relative flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-gradient-to-tr from-blue-600 via-sky-500 to-cyan-300 p-0.5 shadow-[0_4px_12px_rgba(56,189,248,0.45),inset_0_1px_1px_rgba(255,255,255,0.6)]">
-              <Sparkles size={16} className="text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.6)] animate-pulse" />
-            </div>
-
-            <div className="flex flex-wrap items-center gap-2 text-sm sm:text-[15px]">
-              <span className="font-normal text-slate-300 tracking-wide drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]">
-                Designed &amp; Developed by
-              </span>
-              <span className="font-black tracking-wider bg-gradient-to-r from-white via-sky-100 to-sky-300 bg-clip-text text-transparent drop-shadow-[0_2px_4px_rgba(0,0,0,0.9)]">
-                Logic Minds
-              </span>
-              <span className="inline-flex items-center rounded-full bg-gradient-to-r from-sky-500 via-blue-600 to-indigo-600 px-3 py-0.5 text-xs font-bold text-white shadow-[0_3px_10px_rgba(37,99,235,0.5),inset_0_1px_1px_rgba(255,255,255,0.5)] ring-1 ring-white/30 tracking-wide">
-                by Pari
-              </span>
-            </div>
+        {/* Designed & Developed by Logic Minds by Pari */}
+        <div className="flex items-center justify-center pb-6 pt-2">
+          <div className="group inline-flex flex-wrap items-center justify-center gap-2.5 text-xs text-mist/80">
+            <span className="hidden h-px w-10 bg-gradient-to-r from-transparent to-paper/20 sm:inline-block" />
+            <span className="text-[11px] uppercase tracking-[0.2em] text-mist/60 transition-colors group-hover:text-mist">
+              Designed &amp; Developed by
+            </span>
+            <span className="font-bold tracking-[0.16em] text-paper transition-colors duration-300 group-hover:text-sky-300">
+              LOGIC MINDS
+            </span>
+            <span className="text-[12px] font-normal italic tracking-normal text-sky-400 transition-colors group-hover:text-sky-300">
+              by Pari
+            </span>
+            <span className="hidden h-px w-10 bg-gradient-to-l from-transparent to-paper/20 sm:inline-block" />
           </div>
         </div>
 
