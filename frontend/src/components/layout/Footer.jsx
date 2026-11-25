@@ -1,4 +1,4 @@
-import { ArrowUp } from 'lucide-react'
+import { ArrowUp, Sparkles } from 'lucide-react'
 import Logo from '../ui/Logo.jsx'
 import Container from '../ui/Container.jsx'
 import SiteLink from '../ui/SiteLink.jsx'
@@ -81,24 +81,25 @@ function Footer() {
           </div>
         </div>
 
-        {/* Designed & Developed by Logic Minds by Pari */}
-        <div className="flex items-center justify-center pb-6">
-          <div className="group inline-flex items-center gap-2.5 rounded-full border border-paper/10 bg-paper/[0.04] px-4 py-1.5 shadow-[0_4px_16px_rgba(0,0,0,0.3)] backdrop-blur-xs transition-all duration-300 hover:border-sky-400/50 hover:bg-paper/[0.08] hover:shadow-[0_0_20px_rgba(56,189,248,0.15)]">
-            <span className="relative flex h-2 w-2">
-              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-sky-400 opacity-60" />
-              <span className="relative inline-flex h-2 w-2 rounded-full bg-sky-400 shadow-[0_0_8px_#38bdf8]" />
-            </span>
-            <span className="text-xs font-normal tracking-wide text-mist transition-colors group-hover:text-paper">
-              Designed &amp; Developed by
-            </span>
-            <span className="inline-flex items-center gap-1.5 text-xs">
-              <span className="font-bold tracking-wider text-paper transition-colors group-hover:text-white">
+        {/* Designed & Developed by Logic Minds by Pari - 3D Signature Badge */}
+        <div className="flex items-center justify-center pb-8 pt-2">
+          <div className="group relative inline-flex items-center gap-3 rounded-2xl border-t border-white/20 border-b border-black/80 bg-gradient-to-b from-[#1e293b] via-[#0f172a] to-[#090d16] px-5 py-2.5 sm:px-6 sm:py-3 shadow-[0_16px_36px_-6px_rgba(0,0,0,0.9),0_0_28px_-4px_rgba(56,189,248,0.25),inset_0_1px_1px_rgba(255,255,255,0.25),inset_0_-2px_4px_rgba(0,0,0,0.8)] backdrop-blur-md transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_45px_-6px_rgba(56,189,248,0.35),0_0_35px_rgba(56,189,248,0.3),inset_0_1px_2px_rgba(255,255,255,0.4)]">
+            {/* 3D Glowing Icon Tile */}
+            <div className="relative flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-gradient-to-tr from-blue-600 via-sky-500 to-cyan-300 p-0.5 shadow-[0_4px_12px_rgba(56,189,248,0.45),inset_0_1px_1px_rgba(255,255,255,0.6)]">
+              <Sparkles size={16} className="text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.6)] animate-pulse" />
+            </div>
+
+            <div className="flex flex-wrap items-center gap-2 text-sm sm:text-[15px]">
+              <span className="font-normal text-slate-300 tracking-wide drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]">
+                Designed &amp; Developed by
+              </span>
+              <span className="font-black tracking-wider bg-gradient-to-r from-white via-sky-100 to-sky-300 bg-clip-text text-transparent drop-shadow-[0_2px_4px_rgba(0,0,0,0.9)]">
                 Logic Minds
               </span>
-              <span className="rounded-full border border-sky-400/30 bg-sky-400/10 px-2 py-0.5 text-[11px] font-medium italic tracking-wide text-sky-300 transition-all duration-300 group-hover:border-sky-300 group-hover:bg-sky-400/20 group-hover:text-white">
+              <span className="inline-flex items-center rounded-full bg-gradient-to-r from-sky-500 via-blue-600 to-indigo-600 px-3 py-0.5 text-xs font-bold text-white shadow-[0_3px_10px_rgba(37,99,235,0.5),inset_0_1px_1px_rgba(255,255,255,0.5)] ring-1 ring-white/30 tracking-wide">
                 by Pari
               </span>
-            </span>
+            </div>
           </div>
         </div>
 
