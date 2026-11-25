@@ -14,7 +14,7 @@ function Footer() {
   return (
     <footer className="relative overflow-hidden bg-ink pt-20 text-paper">
       <Container>
-        <div className="grid gap-12 pb-12 lg:grid-cols-[1.3fr_2fr]">
+        <div className="grid gap-12 pb-8 lg:grid-cols-[1.3fr_2fr]">
           <div>
             <SiteLink href="#top" aria-label={`${business.name}, home`} className="inline-block rounded-md">
               <Logo onDark />
@@ -81,14 +81,20 @@ function Footer() {
           </div>
         </div>
 
-        {/* Designed & Developed by Logic Minds (Centered above the divider line) */}
-        <div className="flex items-center justify-center pt-2 pb-8 text-center">
-          <p className="inline-flex flex-wrap items-center justify-center gap-2 text-sm sm:text-base tracking-wide">
-            <span className="font-medium text-white">Designed &amp; Developed by</span>
-            <span className="font-bold tracking-wider text-sky-400 drop-shadow-xs transition-colors hover:text-sky-300">
+        {/* Designed & Developed by Logic Minds */}
+        <div className="flex items-center justify-center pb-6">
+          <div className="group inline-flex items-center gap-2.5 rounded-full border border-paper/10 bg-paper/[0.04] px-4 py-1.5 shadow-[0_2px_12px_rgba(0,0,0,0.25)] backdrop-blur-xs transition-all duration-300 hover:border-sky-400/40 hover:bg-paper/[0.08]">
+            <span className="relative flex h-2 w-2">
+              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-sky-400 opacity-60" />
+              <span className="relative inline-flex h-2 w-2 rounded-full bg-sky-400 shadow-[0_0_8px_#38bdf8]" />
+            </span>
+            <span className="text-xs font-normal tracking-wide text-mist transition-colors group-hover:text-paper">
+              Designed &amp; Developed by
+            </span>
+            <span className="text-xs font-semibold tracking-wider text-paper transition-colors group-hover:text-sky-300">
               Logic Minds
             </span>
-          </p>
+          </div>
         </div>
 
         <div className="border-t border-paper/10" />
