@@ -20,7 +20,7 @@ function Footer() {
               <Logo onDark />
             </SiteLink>
             <p className="mt-6 max-w-sm text-sm leading-7 text-mist">
-              Group departures, holiday packages, flights, visas, hotels and cruises, arranged by our{' '}
+              Group departures, holiday packages, flights, visas, cruises, passports and hotels, arranged by our{' '}
               {business.city} travel team.
             </p>
             {business.socialLinks.length > 0 && (
@@ -82,12 +82,21 @@ function Footer() {
         </div>
 
         <div className="flex flex-col gap-4 py-8 text-xs text-mist sm:flex-row sm:items-center sm:justify-between">
-          <p>
-            © {year} {business.name}, a brand of {business.legalName}. Prices and itineraries are subject to
-            confirmation. Destination photography via Unsplash.
+          <p className="leading-relaxed text-mist/80">
+            © {year} {business.name}, a brand of {business.legalName}. All rights reserved.
+          </p>
+          <p className="inline-flex items-center gap-1.5 text-xs text-mist">
+            <span>Designed &amp; Developed by</span>
+            <span className="font-semibold tracking-wide text-paper transition-colors duration-200 hover:text-sky-soft">
+              Logic Minds
+            </span>
           </p>
           {/* Stays on the current page: only scrolls back up. */}
-          <button type="button" onClick={scrollToTop} className="inline-flex items-center gap-2 hover:text-paper">
+          <button
+            type="button"
+            onClick={scrollToTop}
+            className="inline-flex items-center gap-2 transition-colors duration-200 hover:text-paper cursor-pointer self-start sm:self-auto"
+          >
             Back to top <ArrowUp size={14} aria-hidden="true" />
           </button>
         </div>
