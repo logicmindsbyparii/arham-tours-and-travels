@@ -197,7 +197,7 @@ function InquiryForm() {
             value={form.phone}
             onChange={handleChange}
             autoComplete="tel"
-            placeholder="+91 98765 43210"
+            placeholder="+91 98241 00369"
             maxLength={20}
           />
         </Field>
