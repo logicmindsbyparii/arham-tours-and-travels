@@ -8,6 +8,7 @@
 
 export const BUSINESS = {
   name: 'Arham Tours & Travels',
+  brand: 'Arham Holiday',
   legalName: 'Arham Holiday Designer LLP',
   city: 'Surat',
   contactPerson: 'Ashish Shah',

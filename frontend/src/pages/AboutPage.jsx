@@ -24,7 +24,7 @@ function AboutPage() {
   const business = useBusiness()
   const banner = useSectionContent('about.banner', BANNER)
   const DETAILS = [
-    { label: 'Brand', value: business.name },
+    { label: 'Brand', value: business.brand || 'Arham Holiday' },
     { label: 'Registered as', value: business.legalName },
     { label: 'Office', value: business.addressLines.join(', ') },
     { label: 'Contact person', value: business.contactPerson },

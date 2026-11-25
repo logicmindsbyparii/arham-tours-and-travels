@@ -10,6 +10,7 @@ const phones = '+91 98241 00369'
 
 export const settings = {
   businessName: 'Arham Tours & Travels',
+  brand: 'Arham Holiday',
   legalName: 'Arham Holiday Designer LLP',
   contactPerson: 'Ashish Shah',
   city: 'Surat',

@@ -80,6 +80,7 @@ export function normalizeBusiness(settings) {
   const mapUrl = `https://www.google.com/maps/search/?api=1&query=${mapQuery}`
   return {
     name: settings.businessName || 'Arham Tours & Travels',
+    brand: settings.brand || 'Arham Holiday',
     legalName: settings.legalName || 'Arham Holiday Designer LLP',
     contactPerson: settings.contactPerson,
     city: settings.city || 'Surat',
