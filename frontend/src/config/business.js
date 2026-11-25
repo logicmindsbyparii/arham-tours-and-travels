@@ -25,17 +25,18 @@ export const PHONE_NUMBERS = [{ label: '+91 98241 00369', href: 'tel:+9198241003
 export const EMAILS = ['info@arhamtours.in']
 
 export const ADDRESS = {
-  lines: ['Aagam Emporio 9, 2nd floor', 'U M Road, Surat'],
+  lines: ['9SF, Aagam Emporio', 'U M Road, Vesu, Surat, Gujarat 395007'],
 }
 
-export const MAP_LOCATION = 'Arham Holiday ,agam Emporio 9, 2nd floor, U M Road, Surat'
+// Commercial complex on Google Maps that pins directly and opens turn-by-turn directions without error:
+export const MAP_DESTINATION = 'Aagam Emporio, U M Road, Vesu, Surat, Gujarat 395007'
 
-export const MAP_URL = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(MAP_LOCATION)}`
+export const MAP_URL = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(MAP_DESTINATION)}`
 
-export const DIRECTIONS_URL = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(MAP_LOCATION)}`
+export const DIRECTIONS_URL = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(MAP_DESTINATION)}`
 
 // Google Maps embed for the Contact page (needs no API key).
-export const MAP_EMBED_URL = `https://maps.google.com/maps?q=${encodeURIComponent(MAP_LOCATION)}&output=embed`
+export const MAP_EMBED_URL = `https://maps.google.com/maps?q=${encodeURIComponent(MAP_DESTINATION)}&output=embed`
 
 // The address this website is published at, with no trailing slash. Used for
 // canonical links, the sitemap and search-engine structured data.

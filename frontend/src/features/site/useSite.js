@@ -74,20 +74,21 @@ export function resolveFaqs(apiFaqs = {}) {
 // Business details in the shape the components use.
 export function normalizeBusiness(settings) {
   const address = (settings.addressLines ?? []).filter(Boolean)
-  const mapLocation = 'Arham Holiday ,agam Emporio 9, 2nd floor, U M Road, Surat'
-  const mapQuery = encodeURIComponent(mapLocation)
+  // Commercial complex on Google Maps that pins directly and opens turn-by-turn directions without error:
+  const mapDestination = 'Aagam Emporio, U M Road, Vesu, Surat, Gujarat 395007'
+  const mapQuery = encodeURIComponent(mapDestination)
   return {
-    name: settings.businessName,
-    legalName: settings.legalName || settings.businessName,
+    name: settings.businessName || 'Arham Tours & Travels',
+    legalName: settings.legalName || 'Arham Holiday Designer LLP',
     contactPerson: settings.contactPerson,
-    city: settings.city,
+    city: settings.city || 'Surat',
     hours: settings.hours,
     whatsappNumber: settings.whatsappNumber,
     whatsappMessage: settings.whatsappMessage,
     phones: (settings.phones ?? []).map((phone) => ({ label: phone.label, href: `tel:+${phone.number}` })),
     emails: settings.email ? [settings.email] : [],
-    addressLines: address,
-    mapLocation,
+    addressLines: address.length > 0 ? address : ['9SF, Aagam Emporio', 'U M Road, Vesu, Surat, Gujarat 395007'],
+    mapLocation: mapDestination,
     mapUrl: `https://www.google.com/maps/search/?api=1&query=${mapQuery}`,
     directionsUrl: `https://www.google.com/maps/dir/?api=1&destination=${mapQuery}`,
     mapEmbedUrl: `https://maps.google.com/maps?q=${mapQuery}&output=embed`,

@@ -18,7 +18,7 @@ export const settings = {
   whatsappMessage: 'Hi, I would like to enquire about a holiday or travel booking.',
   phones: [{ label: '+91 98241 00369', number: '919824100369' }],
   email: 'info@arhamtours.in',
-  addressLines: ['Aagam Emporio 9, 2nd floor', 'U M Road, Surat'],
+  addressLines: ['9SF, Aagam Emporio', 'U M Road, Vesu, Surat, Gujarat 395007'],
   socialLinks: [],
   logo: '',
   seoTitle: '',
