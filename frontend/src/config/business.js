@@ -23,7 +23,7 @@ export const WHATSAPP_NUMBER = '919824100369'
 
 // The one contact number shown across the site (as asked by the business).
 export const PHONE_NUMBERS = [{ label: '+91 98241 00369', href: 'tel:+919824100369' }]
-export const EMAILS = ['info@arhamtours.in']
+export const EMAILS = ['arhamtoursntravels5369@gmail.com']
 
 export const ADDRESS = {
   lines: ['9SF, Aagam Emporio', 'U M Road, Vesu, Surat, Gujarat 395007'],

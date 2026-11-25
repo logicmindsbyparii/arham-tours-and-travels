@@ -18,7 +18,7 @@ export const settings = {
   whatsappNumber: '919824100369',
   whatsappMessage: 'Hi, I would like to enquire about a holiday or travel booking.',
   phones: [{ label: '+91 98241 00369', number: '919824100369' }],
-  email: 'info@arhamtours.in',
+  email: 'arhamtoursntravels5369@gmail.com',
   addressLines: ['9SF, Aagam Emporio', 'U M Road, Vesu, Surat, Gujarat 395007'],
   socialLinks: [],
   logo: '',
@@ -318,7 +318,7 @@ export const faqs = {
     },
     {
       question: 'How can I contact you?',
-      answer: `Call Ashish Shah on ${phones}, email info@arhamtours.in, send a WhatsApp message or use the enquiry form on this page.`,
+      answer: `Call Ashish Shah on ${phones}, email arhamtoursntravels5369@gmail.com, send a WhatsApp message or use the enquiry form on this page.`,
     },
   ],
   visa: [

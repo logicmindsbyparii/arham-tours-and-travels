@@ -29,7 +29,7 @@ function AboutPage() {
     { label: 'Office', value: business.addressLines.join(', ') },
     { label: 'Contact person', value: business.contactPerson },
     { label: 'Phone', value: business.phones.map((phone) => phone.label).join(', ') },
-    { label: 'Email', value: business.emails.join(', ') },
+    { label: 'Gmail', value: business.emails.join(', ') },
     { label: 'Office hours', value: business.hours },
   ].filter((detail) => detail.value)
 
